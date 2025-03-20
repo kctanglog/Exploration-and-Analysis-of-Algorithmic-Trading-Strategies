@@ -5,7 +5,7 @@ Welcome!
 Here is my project.
 Please feel free to have a look!
 
-To view it, you can either:
+To view it in detail, you can either:
 
 1) download it from the "pdf file" in the above GitHub folder or
   
