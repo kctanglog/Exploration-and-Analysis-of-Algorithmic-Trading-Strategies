@@ -11,6 +11,6 @@ To view it in detail, you can either:
   
 2) from the google doc link below:
 
-https://docs.google.com/document/d/1sUAwQMkPB-bf3nBwriMc2LcChkYR_b7BOXCpeTci800/edit?usp=sharing
+📌 https://docs.google.com/document/d/1sUAwQMkPB-bf3nBwriMc2LcChkYR_b7BOXCpeTci800/edit?usp=sharing
 
 Thanks!
